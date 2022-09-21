@@ -19,7 +19,7 @@ Start customizing it using the proprieties descibed below 👇
 Install react-galaxy-background with npm
 
 ```bash
-  npm install react-galaxy-bg
+  npm install react-animated-stars
 ```
 
 ## Properties
