@@ -16,8 +16,6 @@ Start customizing it using the proprieties descibed below 👇
 
 ## Installation
 
-Install react-galaxy-background with npm
-
 ```bash
   npm install react-animated-stars
 ```
