@@ -1,6 +1,6 @@
 {
   "name": "react-animated-stars",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Animated Stars Background, simple to use 🚀",
   "main": "./lib/GalaxyBackground.js",
   "types": "./lib/GalaxyBackground.d.ts",
